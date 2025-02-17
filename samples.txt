@@ -1,0 +1,1 @@
+https://api.polygon.io/v2/aggs/ticker/O:AAPL250221C00100000/range/1/day/2025-02-14/2025-02-15?apiKey=SOlnh6Eqtscpw7z1QVTDNKwPUh_n6ZYm
